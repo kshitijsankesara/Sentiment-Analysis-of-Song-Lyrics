@@ -3,7 +3,7 @@
 IST 736: Text Mining
 
 Introduction:
-For this project, I am analyzing song data of 57650 records. I’m using text mining approaches like Clustering words and predicting artists by song and emotion analysis. I have used the Kaggle dataset (https://www.kaggle.com/mousehead/songlyrics). I’m targeting the Lyrics variable for our text mining and sentiment analysis. 
+For this project, I am analyzing song data of **57650 records.** I’m using text mining approaches like Clustering words and predicting artists by song and emotion analysis. I have used the Kaggle dataset (https://www.kaggle.com/mousehead/songlyrics). I’m targeting the Lyrics variable for our text mining and sentiment analysis. 
 
 **Data Preprocessing:**
 1. Removed Stopwords
